@@ -8,43 +8,47 @@
 </p>
 
 ---
-
 ### 🏗️ Cloud & Infrastructure (DevOps)
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> </a>
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a>
-  <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="45"/> </a>
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/> </a>
-  <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="45" height="45"/> </a>
-  <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45" /> </a>
+  <a href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google_cloud/google_cloud-original.svg" alt="GCP" width="45" height="45" /> </a>
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45" /> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="45" height="45" /> </a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://svglogos.vercel.app/terraform.svg" alt="Terraform" width="45" height="45" /> </a>
+  <a href="https://www.jenkins.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45" /> </a>
+  <a href="https://www.ansible.com/" target="_blank"> <img src="https://svglogos.vercel.app/ansible.svg" alt="Ansible" width="45" height="45" /> </a>
+  <a href="https://www.nginx.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="45" height="45" /> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" /> </a>
 </p>
 
 ### 📊 Databases & Search Engines
 <p align="left">
-  <a href="https://opensearch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opensearch/opensearch-icon.svg" alt="opensearch" width="45" height="45"/> </a>
-  <a href="https://milvus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/milvusio/milvusio-icon.svg" alt="milvus" width="45" height="45"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
-  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
+  <a href="https://opensearch.org/" target="_blank"> <img src="https://svglogos.vercel.app/opensearch.svg" alt="OpenSearch" width="45" height="45" /> </a>
+  <a href="https://milvus.io/" target="_blank"> <img src="https://svglogos.vercel.app/milvus.svg" alt="Milvus" width="45" height="45" /> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" /> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" /> </a>
+  <a href="https://redis.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="45" height="45" /> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" /> </a>
 </p>
 
 ### 🤖 AI, Event Streaming & Workflow
 <p align="left">
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="45" height="45"/> </a>
-  <a href="https://temporal.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/temporalio/temporalio-icon.svg" alt="temporal" width="45" height="45"/> </a>
-  <a href="https://www.langchain.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="langchain" width="45" height="45"/> </a>
-  <a href="https://openai.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="openai" width="45" height="45"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://svglogos.vercel.app/kafka.svg" alt="Apache Kafka" width="45" height="45" /> </a>
+  <a href="https://temporal.io/" target="_blank"> <img src="https://svglogos.vercel.app/temporal.svg" alt="Temporal" width="45" height="45" /> </a>
+  <a href="https://www.langchain.com/" target="_blank"> <img src="https://svglogos.vercel.app/langchain.svg" alt="LangChain" width="45" height="45" /> </a>
+  <a href="https://openai.com/" target="_blank"> <img src="https://svglogos.vercel.app/openai.svg" alt="OpenAI" width="45" height="45" /> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://svglogos.vercel.app/pytorch.svg" alt="PyTorch" width="45" height="45" /> </a>
 </p>
 
 ### 🛠️ Programming & Tools
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://svglogos.vercel.app/django.svg" alt="Django" width="40" height="40" /> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" /> </a>
+  <a href="https://grafana.com" target="_blank"> <img src="https://svglogos.vercel.app/grafana.svg" alt="Grafana" width="40" height="40" /> </a>
+  <a href="https://prometheus.io/" target="_blank"> <img src="https://svglogos.vercel.app/prometheus.svg" alt="Prometheus" width="40" height="40" /> </a>
+</p>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
