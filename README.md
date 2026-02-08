@@ -6,8 +6,6 @@
   <a href="https://linkedin.com/in/salihbilgin">💼 LinkedIn</a> • 
   <a href="https://twitter.com/bensalihbilgin">🐦 Twitter</a>
 </p>
-
----
 ### 🏗️ Cloud & Infrastructure (DevOps)
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45" /> </a>
@@ -23,8 +21,8 @@
 
 ### 📊 Databases & Search Engines
 <p align="left">
-  <a href="https://opensearch.org/" target="_blank"> <img src="https://svglogos.vercel.app/opensearch.svg" alt="OpenSearch" width="45" height="45" /> </a>
-  <a href="https://milvus.io/" target="_blank"> <img src="https://svglogos.vercel.app/milvus.svg" alt="Milvus" width="45" height="45" /> </a>
+  <a href="https://opensearch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/OpenSearch_Logo.svg" alt="OpenSearch" width="45" height="45" /> </a>
+  <a href="https://milvus.io/" target="_blank"> <img src="https://logo.svgcdn.com/logos/milvus.svg" alt="Milvus" width="45" height="45" /> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" /> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" /> </a>
   <a href="https://redis.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="45" height="45" /> </a>
@@ -34,8 +32,8 @@
 ### 🤖 AI, Event Streaming & Workflow
 <p align="left">
   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://svglogos.vercel.app/kafka.svg" alt="Apache Kafka" width="45" height="45" /> </a>
-  <a href="https://temporal.io/" target="_blank"> <img src="https://svglogos.vercel.app/temporal.svg" alt="Temporal" width="45" height="45" /> </a>
-  <a href="https://www.langchain.com/" target="_blank"> <img src="https://svglogos.vercel.app/langchain.svg" alt="LangChain" width="45" height="45" /> </a>
+  <a href="https://temporal.io/" target="_blank"> <img src="https://logo.svgcdn.com/logos/temporal.svg" alt="Temporal" width="45" height="45" /> </a>
+  <a href="https://www.langchain.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/LangChain_Logo.svg" alt="LangChain" width="45" height="45" /> </a>
   <a href="https://openai.com/" target="_blank"> <img src="https://svglogos.vercel.app/openai.svg" alt="OpenAI" width="45" height="45" /> </a>
   <a href="https://pytorch.org/" target="_blank"> <img src="https://svglogos.vercel.app/pytorch.svg" alt="PyTorch" width="45" height="45" /> </a>
 </p>
@@ -48,9 +46,4 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" /> </a>
   <a href="https://grafana.com" target="_blank"> <img src="https://svglogos.vercel.app/grafana.svg" alt="Grafana" width="40" height="40" /> </a>
   <a href="https://prometheus.io/" target="_blank"> <img src="https://svglogos.vercel.app/prometheus.svg" alt="Prometheus" width="40" height="40" /> </a>
-</p>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-  <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
 </p>
