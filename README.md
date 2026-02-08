@@ -12,30 +12,31 @@
 ## 🏗️ Cloud & Infrastructure (DevOps)
 
 <p align="left">
-  <a href="https://aws.amazon.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="45" height="45"/>
-  </a>
-  <a href="https://cloud.google.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" width="45" height="45"/>
-  </a>
-  <a href="https://kubernetes.io">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.docker.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_Logo.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.terraform.io">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.jenkins.io">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.ansible.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.nginx.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" width="45" height="45"/>
-  </a>
+<a href="https://aws.amazon.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+</a>
+<a href="https://cloud.google.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
+</a>
+<a href="https://kubernetes.io">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
+</a>
+<a href="https://www.docker.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+</a>
+<a href="https://www.terraform.io">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/>
+</a>
+<a href="https://www.jenkins.io">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
+</a>
+<a href="https://www.ansible.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45"/>
+</a>
+<a href="https://www.nginx.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45"/>
+</a>
+
 </p>
 
 ---
@@ -43,47 +44,47 @@
 ## 📊 Databases & Search Engines
 
 <p align="left">
-  <a href="https://opensearch.org">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Opensearch_Logo.svg" width="45" height="45"/>
-  </a>
-  <a href="https://milvus.io">
-    <img src="https://raw.githubusercontent.com/milvus-io/milvus/master/docs/design_docs/milvus_logo.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.postgresql.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.mongodb.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-  </a>
-  <a href="https://redis.io">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  </a>
+<a href="https://opensearch.org">
+  <img src="https://raw.githubusercontent.com/opensearch-project/opensearch-artwork/main/logos/opensearch-mark.svg" width="45"/>
+</a>
+<a href="https://milvus.io">
+  <img src="https://raw.githubusercontent.com/milvus-io/artwork/master/milvus-logo-color.svg" width="45"/>
+</a>
+<a href="https://www.postgresql.org">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+</a>
+<a href="https://www.mongodb.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+</a>
+<a href="https://redis.io">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
+</a>
+<a href="https://www.mysql.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</a>
+
 </p>
 
 ---
 
 ## 🤖 AI, Event Streaming & Workflow
 
-<p align="left">
-  <a href="https://kafka.apache.org">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45" height="45"/>
-  </a>
-  <a href="https://temporal.io">
-    <img src="https://raw.githubusercontent.com/temporalio/brand/main/temporal/temporal-icon-color.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.langchain.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LangChain_Logo.svg" width="45" height="45"/>
-  </a>
-  <a href="https://openai.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" height="45"/>
-  </a>
-  <a href="https://pytorch.org">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_black.svg" width="45" height="45"/>
-  </a>
-</p>
+<a href="https://kafka.apache.org">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45"/>
+</a>
+<a href="https://temporal.io">
+  <img src="https://raw.githubusercontent.com/temporalio/artwork/main/Temporal_Icon_Color.svg" width="45"/>
+</a>
+<a href="https://www.langchain.com">
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.svg" width="45"/>
+</a>
+<a href="https://openai.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="45"/>
+</a>
+<a href="https://pytorch.org">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+</a>
+
 
 ---
 
