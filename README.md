@@ -9,104 +9,34 @@
 
 ---
 
-## 🏗️ Cloud & Infrastructure (DevOps)
+### 🧠 Tech Stack
 
-<p align="left">
-<a href="https://aws.amazon.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-</a>
-<a href="https://cloud.google.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
-</a>
-<a href="https://kubernetes.io">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
-</a>
-<a href="https://www.docker.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-</a>
-<a href="https://www.terraform.io">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/>
-</a>
-<a href="https://www.jenkins.io">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
-</a>
-<a href="https://www.ansible.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45"/>
-</a>
-<a href="https://www.nginx.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45"/>
-</a>
+![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-%23FF6F00?style=for-the-badge&logo=googlecloud)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-%230DB7ED?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins)
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible)
+![NGINX](https://img.shields.io/badge/NGINX-%234CAF50?style=for-the-badge&logo=nginx)
+![Linux](https://img.shields.io/badge/Linux-%235C4EE5?style=for-the-badge&logo=linux)
 
-</p>
+![OpenSearch](https://img.shields.io/badge/OpenSearch-%234A4A4A?style=for-the-badge&logo=opensearch)
+![Milvus](https://img.shields.io/badge/Milvus-%230081CB?style=for-the-badge&logo=milvus)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql)
 
----
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23F0A30A?style=for-the-badge&logo=apachekafka)
+![Temporal](https://img.shields.io/badge/Temporal-%2344A9E8?style=for-the-badge&logo=temporal)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000?style=for-the-badge&logo=langchain)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000?style=for-the-badge&logo=openai)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch)
 
-## 📊 Databases & Search Engines
-
-<p align="left">
-<a href="https://opensearch.org">
-  <img src="https://raw.githubusercontent.com/opensearch-project/opensearch-artwork/main/logos/opensearch-mark.svg" width="45"/>
-</a>
-<a href="https://milvus.io">
-  <img src="https://raw.githubusercontent.com/milvus-io/artwork/master/milvus-logo-color.svg" width="45"/>
-</a>
-<a href="https://www.postgresql.org">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-</a>
-<a href="https://www.mongodb.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-</a>
-<a href="https://redis.io">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
-</a>
-<a href="https://www.mysql.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</a>
-
-</p>
-
----
-
-## 🤖 AI, Event Streaming & Workflow
-
-<a href="https://kafka.apache.org">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45"/>
-</a>
-<a href="https://temporal.io">
-  <img src="https://raw.githubusercontent.com/temporalio/artwork/main/Temporal_Icon_Color.svg" width="45"/>
-</a>
-<a href="https://www.langchain.com">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.svg" width="45"/>
-</a>
-<a href="https://openai.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="45"/>
-</a>
-<a href="https://pytorch.org">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-</a>
-
-
----
-
-## 🛠️ Programming & Tools
-
-<p align="left">
-  <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com">
-    <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://prometheus.io">
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus)
