@@ -2,7 +2,7 @@
 <h3 align="center">Building the future at <b>Artitech</b></h3>
 
 <p align="center">
-  <a href="https://www.datametric.rs">🚀 Datametrik</a> •
+  <a href="https://www.datametric.rs">🚀 Datametric Doo</a> •
   <a href="https://linkedin.com/in/salihbilgin">💼 LinkedIn</a> •
   <a href="https://twitter.com/bensalihbilgin">🐦 Twitter</a>
 </p>
